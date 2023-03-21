@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Kari! 👋
+
+#### 🖥  Estudante de Análise e Desenvolvimento de Sistemas | FIAP
+#### ✒️ Artista | INFJ
+#### 🔭 Apreciadora de linguagem Java 
 
 <!--
 **Kari-sak/Kari-sak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
