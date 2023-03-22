@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://media2.giphy.com/media/l3978y5HqiEtqupiM/200w.gif?cid=82a1493b9h370l7a3f1qxe7a15nq7q529mxtyi57lr0ee52m&rid=200w.gif&ct=g" />
+<img align="right" width="300" src="https://media2.giphy.com/media/l3978y5HqiEtqupiM/200w.gif?cid=82a1493b9h370l7a3f1qxe7a15nq7q529mxtyi57lr0ee52m&rid=200w.gif&ct=g" />
 
 # Hi there, I'm Kari-sak! ₊ ·—̳͟͞͞☽ ⋆₊
 
