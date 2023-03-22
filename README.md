@@ -4,10 +4,10 @@
 
 <h3> 🌸 &nbsp;Sobre mim </h3>
 
-- 🖥  &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>.
-- ✒️ &nbsp; Artista | INFJ.
-- 🔭 &nbsp; Apreciadora de linguagem Java.
+- 🖥  &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
+- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>
+- ✒️ &nbsp; Artista | INFJ
+- 🔭 &nbsp; Apreciadora de linguagem Java
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
