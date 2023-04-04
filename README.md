@@ -1,6 +1,6 @@
-<img align="right" width="300" src="https://media2.giphy.com/media/l3978y5HqiEtqupiM/200w.gif?cid=82a1493b9h370l7a3f1qxe7a15nq7q529mxtyi57lr0ee52m&rid=200w.gif&ct=g" />
-
 # Hi there, I'm Kari-sak! ₊ ·—̳͟͞͞☽ ⋆₊
+
+<img align="right" width="300" src="https://media2.giphy.com/media/l3978y5HqiEtqupiM/200w.gif?cid=82a1493b9h370l7a3f1qxe7a15nq7q529mxtyi57lr0ee52m&rid=200w.gif&ct=g" />
 
 <h3> 🌸 &nbsp;Sobre mim </h3>
 
@@ -42,10 +42,10 @@
 
 <br/>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Kari-sak&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://readmestats.999857.xyz/api/top-langs/?username=Kari-sak&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Kari-sak">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kari-sak&theme=midnight-purple&show_icons=true" />
+  <img height="170em" src="https://readmestats.999857.xyz/api?username=Kari-sak&theme=midnight-purple&show_icons=true" />
 </a>
 
 <br/>
