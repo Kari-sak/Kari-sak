@@ -50,5 +50,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Kari-sak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinasakamoto/)](https://www.linkedin.com/in/karinasakamoto/)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/Kari-sak?label=follow&style=social)](https://github.com/Kari-sak)
+[![Linkedin: Kari-sak](https://img.shields.io/badge/-Kari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinasakamoto/)](https://www.linkedin.com/in/karinasakamoto/)
+[![GitHub Kari-sak]( https://img.shields.io/github/followers/Kari-sak?label=follow&style=social)](https://github.com/Kari-sak)
