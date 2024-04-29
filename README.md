@@ -5,9 +5,8 @@
 <h3> 🌸 &nbsp;Sobre mim </h3>
 
 - 🖥  &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
-- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>
+- 🎓 &nbsp; Formada em Análise de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>
 - ✒️ &nbsp; Artista | INFJ
-- 🔭 &nbsp; Apreciadora de linguagem Java
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -42,8 +41,7 @@
 
 <br/>
 
-[![Top Linguagens](https://readmestats.999857.xyz/api/top-langs/?username=Kari-sak&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api?username=Kari-sak&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Kari-sak">
   <img height="170em" src="https://readmestats.999857.xyz/api?username=Kari-sak&theme=midnight-purple&show_icons=true" />
 </a>
@@ -52,5 +50,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinasakamoto/)](https://www.linkedin.com/in/karinasakamoto/)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Kari-sak)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Kari-sak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinasakamoto/)](https://www.linkedin.com/in/karinasakamoto/)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/Kari-sak?label=follow&style=social)](https://github.com/Kari-sak)
